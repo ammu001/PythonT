@@ -1,1 +1,1 @@
-This is the project to translate the english word into tamil (English to tamil translator) 
+This language translator designed to translate english language words into their own native language meaning. Utilizing the power of Python, google API's this project helps especially the people to know the meaning of their other language. This project offers the user can create their own dictionary in a csv format to search the words.   
